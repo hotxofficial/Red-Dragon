@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://javhd.pics/photos/japanese/kirara-asuka/32/kirara-asuka-12.jpg" alt="nz" width="1000"/>
+<img src="https://javhd.pics/photos/japanese/kirara-asuka/32/kirara-asuka-12.jpg" alt="nz" width="750"/>
 </p>
 
 ## ⚤𝙷𝚘𝚝 𝚇 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕⚤   Version 6.5
