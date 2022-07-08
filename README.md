@@ -73,7 +73,7 @@ LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
 
 > යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නෙ😁
 
-<img src="https://cdn.isselecta.com/2020-07/teen-girls-like-getting-fucked_1500.webp" alt="nz" width="600"/>
+<img src="https://cdn.isselecta.com/2020-07/teen-girls-like-getting-fucked_1500.webp" alt="nz" width="1000"/>
 
 ## 𝐌𝐑: ☬P༒SADA࿐
 
