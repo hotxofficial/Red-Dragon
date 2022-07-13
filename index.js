@@ -140,7 +140,7 @@ async function startRedDragonMdNx() {
         let nama = await RedDragonMdNx.getName(num)
 memb = metadata.participants.length
 
-Kon = await getBuffer(`https://hardianto.xyz/api/welcome3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://github.com/hotxofficial/Red-Dragon/blob/main/DragonMedia/image/kirara-asuka-8%20(1).jpg?raw=true&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
+Kon = await getBuffer(`https://hardianto.xyz/api/welcome3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://raw.githubusercontent.com/hotxofficial/Red-Dragon/main/DragonMedia/image/0001-11.jpg&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
 
 Tol = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURIComponent(ppuser)}&name=${encodeURIComponent(nama)}&bg=https://github.com/hotxofficial/Red-Dragon/blob/main/DragonMedia/image/kirara-asuka-8.jpg?raw=true&namegb=${encodeURIComponent(metadata.subject)}&member=${encodeURIComponent(memb)}`)
                 if (anu.action == 'add') {
